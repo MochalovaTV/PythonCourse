@@ -13,7 +13,7 @@ class Hero:
 		else:
             print("Incorrect action")		
 
-class Action:
+cla1ss Action:
     def do_action(self):
 	    print("base action")
 
